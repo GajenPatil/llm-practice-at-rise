@@ -1,0 +1,11 @@
+*.venv
+.env
+*.vscode
+__pycache__/
+Agent/
+AI\ Travel\ Planner/
+LLM\ APP\ PRACTICE/
+LLM\ Email\ generator/
+LLM\ Movie\ dialog\ generator/
+Practice\ Rag\ App/
+Social\ Media\ Post\ generator/
